@@ -12,7 +12,7 @@
 
 ## Project Overview
 
-This project presents an advanced financial analysis dashboard created using Power BI. The dataset is sourced from an Excel workbook named "Financial Dataset," containing comprehensive information about various factors such as region, country, first name, last name, gender, age, rank level, rank, product, year, quarter, etc.
+This project presents an advanced financial analysis dashboard created using Power BI. The dataset is sourced from an Excel workbook named "Financial Dataset," containing comprehensive information about various factors such as region, country, first name, last name, gender, age, rank level, rank, product, year, quarter, etc
 
 The dashboard components include:
 
